@@ -1,0 +1,1 @@
+add delete and put endpoint as well.
